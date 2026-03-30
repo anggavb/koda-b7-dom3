@@ -1,0 +1,26 @@
+{
+  "name": "koda-b7-dom2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind:watch": "npx tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggavb/koda-b7-dom2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/anggavb/koda-b7-dom2/issues"
+  },
+  "homepage": "https://github.com/anggavb/koda-b7-dom2#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.2.2",
+    "axios": "^1.14.0",
+    "tailwindcss": "^4.2.2"
+  }
+}
