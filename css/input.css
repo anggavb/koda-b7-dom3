@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --color-main: #09122C;
+    --color-ivory: #FFFFE0;
+    --color-accent: #5A9690;
+    --color-accent-hover: #95d2cc;
+    --color-vintage: #E0D9D9;
+    --font-heading: 'Outfit', sans-serif;
+    --font-sans: 'Roboto', sans-serif;
+}
