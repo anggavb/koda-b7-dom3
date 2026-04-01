@@ -1,5 +1,5 @@
 {
-  "name": "koda-b7-dom2",
+  "name": "koda-b7-dom3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anggavb/koda-b7-dom2.git"
+    "url": "git+https://github.com/anggavb/koda-b7-dom3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/anggavb/koda-b7-dom2/issues"
+    "url": "https://github.com/anggavb/koda-b7-dom3/issues"
   },
-  "homepage": "https://github.com/anggavb/koda-b7-dom2#readme",
+  "homepage": "https://github.com/anggavb/koda-b7-dom3#readme",
   "dependencies": {
     "@tailwindcss/cli": "^4.2.2",
     "axios": "^1.14.0",
